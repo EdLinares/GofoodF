@@ -1,6 +1,8 @@
 # Proyecto GoFoodUnicah Seminario de Software
 Proyecto mobil de comidas de la unicah
 
+Correr con Mongo el js llamadado "structMongoDB"
+
 # INFORMACION
 
 Tipo de usuario maneja :
